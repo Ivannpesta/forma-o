@@ -1,8 +1,8 @@
 .cabecalho {
-    background-color: #f0252f;
-    color: rgb(255, 255, 255);
+    background-color: #ee0814;
+    color: rgb(13, 87, 247);
     display:flex;
 }
 .cabecalho-imagem{
-    width: 40%;
+    width: 60%;
 }
