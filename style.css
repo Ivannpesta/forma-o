@@ -1,6 +1,6 @@
 .cabecalho {
     background-color: #f0252f;
-    color: white;
+    color: rgb(255, 255, 255);
     display:flex;
 }
 .cabecalho-imagem{
